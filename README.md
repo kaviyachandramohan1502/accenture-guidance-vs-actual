@@ -20,6 +20,7 @@ Progress
 | Quarter | Actual ($bn) | Guidance range ($bn) | Variance % | Result |
 |---|---|---|---|---|
 | FY26 Q4 | 18.68 | 17.75 – 18.40 | +3.3% | Above range |
+| FY26 Q3 | 18.72 | 18.35 – 19.00 | +0.2% | Within range |
 
 Status
 In progress: collecting eight quarters of data, then analysis in SQL, validation in Python and a Power BI dashboard.
